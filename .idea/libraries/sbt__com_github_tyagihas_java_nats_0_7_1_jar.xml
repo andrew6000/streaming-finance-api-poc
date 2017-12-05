@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.tyagihas:java_nats:0.7.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.tyagihas/java_nats/jars/java_nats-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.tyagihas/java_nats/srcs/java_nats-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
